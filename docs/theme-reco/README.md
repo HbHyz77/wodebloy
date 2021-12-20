@@ -1,6 +1,5 @@
 ---
-title: theme-reco
+title: 常见的问题
 date: 2020-05-29
 ---
 
-This is theme-reco.

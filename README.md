@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: vuepress-theme-reco
-tagline: A simple and beautiful vuepress blog theme.
+heroText: 每天学一点进步 多一点
+tagline:  你好 明天  过去不在重来
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',

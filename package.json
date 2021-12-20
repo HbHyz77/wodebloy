@@ -1,7 +1,7 @@
 {
-  "name": "vuepress-theme-reco-demo",
+  "name": "i-want-to-fly",
   "version": "1.0.0",
-  "author": "reco_luan",
+  "author": "我的名字--何博",
   "scripts": {
     "dev": "vuepress dev . --open --host \"localhost\"",
     "build": "vuepress build ."

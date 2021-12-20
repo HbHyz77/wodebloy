@@ -1,6 +1,6 @@
 module.exports = {
-  title: "vuepress-theme-reco",
-  description: 'A simple and beautiful vuepress blog theme .',
+  title: "I want to fly",
+  description: 'Its a kind of bravery',
   dest: 'public',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
@@ -46,13 +46,13 @@ module.exports = {
     },
     friendLink: [
       {
-        title: '午后南杂',
+        title: '昨天的青春',
         desc: 'Enjoy when you can, and endure when you must.',
         email: '1156743527@qq.com',
         link: 'https://www.recoluan.com'
       },
       {
-        title: 'vuepress-theme-reco',
+        title: '明天你要一个人',
         desc: 'A simple and beautiful vuepress Blog & Doc theme.',
         avatar: "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
         link: 'https://vuepress-theme-reco.recoluan.com'
@@ -67,13 +67,13 @@ module.exports = {
     // 最后更新时间
     lastUpdated: 'Last Updated',
     // 作者
-    author: 'reco_luan',
+    author: 'sky-HeBo',
     // 作者头像
-    authorAvatar: '/avatar.png',
+    authorAvatar: '/hebo.jpg',
     // 备案号
-    record: 'xxxx',
+    record: '回到顶部',
     // 项目开始时间
-    startYear: '2017'
+    startYear: '2021'
     /**
      * 密钥 (if your blog is private)
      */

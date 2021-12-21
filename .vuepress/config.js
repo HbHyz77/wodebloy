@@ -29,7 +29,8 @@ module.exports = {
         '',
         'theme',
         'plugin',
-        'api'
+        'api',
+        'git'
       ]
     },  
     type: 'blog',

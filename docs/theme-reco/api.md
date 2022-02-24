@@ -13,5 +13,19 @@ https://panjiachen.gitee.io/vue-element-admin-site/zh/guide/
 ---
 <font size=4 color=#0099ff>Echarts好用的东西</font>
 ```
-https://www.makeapie.com/explore.html
+http://analysis.datains.cn/finance-admin/#/chartLib/all
 ```
+---
+<font size=4 color=#0099ff>dataV</font>
+```
+http://datav.jiaminghi.com/
+```
+---
+base64
+---
+```
+npm install --save js-base64
+const Base64 = require('js-base64').Base64。
+加密使用：Base64.encode('我是一段需要处理的字符')。
+解密使用：Base64.decode('5oiR5piv5LiA5q616ZyA6KaB5aSE55CG55qE5a2X56ym')。
+````
